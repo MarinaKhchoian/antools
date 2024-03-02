@@ -1,0 +1,22 @@
+<svg width="64.000000" height="56.949951" viewBox="0 0 64 56.95" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip26_111">
+			<rect id="logos:sketch" width="64.000000" height="56.949951" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="logos:sketch" width="64.000000" height="56.949951" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip26_111)">
+		<path id="Vector" d="M32 0L13.9637 1.87244L0 20.2781L32 56.8669L64 20.2778L50.0365 1.87244L32 0Z" fill="#FDB300" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M0 20.2782L32 56.8671L12.9615 20.2782L0 20.2782Z" fill="#EB6C00" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M51.0383 20.2782L32 56.8671L64 20.2782L51.0383 20.2782Z" fill="#EB6C00" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M12.9617 20.2782L32.0002 56.8671L51.0387 20.2782L12.9617 20.2782Z" fill="#FDAD00" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M13.9636 1.87244L12.9611 20.2781L31.9998 0L13.9636 1.87244Z" fill="#FDD231" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M51.0383 20.2781L50.0363 1.87244L32 0L51.0383 20.2781Z" fill="#FDD231" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M51.0383 20.2781L63.9998 20.2781L50.0363 1.87244L51.0383 20.2781Z" fill="#FDAD00" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M0 20.2781L12.9615 20.2781L13.9637 1.87244L0 20.2781Z" fill="#FDAD00" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M32.0002 0L12.9617 20.2778L51.0387 20.2778L32.0002 0Z" fill="#FEEEB7" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
